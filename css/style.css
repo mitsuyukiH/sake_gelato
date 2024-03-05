@@ -1405,7 +1405,7 @@ General Styles - Owlcarousel
 --------------------------------------------------------------*/
 .home-section {
 
-  background-image: url(images/landing/top_bg.png);
+  background-image: url(top_bg.png);
   background-color: black;
   background-repeat: no-repeat;
   background-position:center center;
@@ -1413,7 +1413,7 @@ General Styles - Owlcarousel
   background-size: cover;
 
   @media (min-width:800px){
-  background-image: url(images/landing/top_bg.png);
+  background-image: url(top_bg.png);
   background-color: black;
   background-repeat: no-repeat;
   background-position:center center;
@@ -1423,7 +1423,7 @@ General Styles - Owlcarousel
   }
   
   @media (min-width:200px){
-    background-image: url(images/landing/top_small_bg.png);
+    background-image: url(top_small_bg.png);
     background-color: black;
     background-repeat: no-repeat;
     background-position:center center;
@@ -1432,7 +1432,7 @@ General Styles - Owlcarousel
     background-size: cover;
     }
     @media (min-width:800px){
-      background-image: url(images/landing/top_bg.png);
+      background-image: url(top_bg.png);
       background-color: black;
       background-repeat: no-repeat;
       background-position:center center;
