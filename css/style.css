@@ -1,12 +1,12 @@
 
 
 .wafu-img {
-  background-image: url(images/landing/top2_bg.png);
+  background-image: url(top2_bg.png);
   width: 100%;
 }
 
 .wafu2-img {
-  background-image: url(images/landing/top3_bg.png);
+  background-image: url(top3_bg.png);
   width: 100%;
   height:auto;
 }
